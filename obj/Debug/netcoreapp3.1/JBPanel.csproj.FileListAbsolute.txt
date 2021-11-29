@@ -1,0 +1,17 @@
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.exe
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.deps.json
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.runtimeconfig.json
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.runtimeconfig.dev.json
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.dll
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\bin\Debug\netcoreapp3.1\JBPanel.pdb
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.csproj.AssemblyReference.cache
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.Form1.resources
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.Properties.Resources.resources
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.csproj.GenerateResource.cache
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.AssemblyInfoInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.AssemblyInfo.cs
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.csproj.CoreCompileInputs.cache
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.dll
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.pdb
+D:\windows_back_up\est\s3\c#\devoirs\jbPanel\JBPanel\obj\Debug\netcoreapp3.1\JBPanel.genruntimeconfig.cache
