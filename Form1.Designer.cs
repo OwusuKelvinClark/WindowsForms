@@ -30,6 +30,7 @@ namespace JBPanel
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btnAnnuler = new System.Windows.Forms.Button();
             this.btnConfirmer = new System.Windows.Forms.Button();
             this.btnSup = new System.Windows.Forms.Button();
             this.btnModifier = new System.Windows.Forms.Button();
@@ -51,6 +52,7 @@ namespace JBPanel
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.Navy;
+            this.panel1.Controls.Add(this.btnAnnuler);
             this.panel1.Controls.Add(this.btnConfirmer);
             this.panel1.Controls.Add(this.btnSup);
             this.panel1.Controls.Add(this.btnModifier);
@@ -62,6 +64,22 @@ namespace JBPanel
             this.panel1.Size = new System.Drawing.Size(200, 450);
             this.panel1.TabIndex = 0;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // btnAnnuler
+            // 
+            this.btnAnnuler.BackColor = System.Drawing.Color.MediumBlue;
+            this.btnAnnuler.FlatAppearance.BorderSize = 0;
+            this.btnAnnuler.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAnnuler.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.btnAnnuler.Image = global::JBPanel.Properties.Resources.close_adobespark;
+            this.btnAnnuler.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnAnnuler.Location = new System.Drawing.Point(9, 329);
+            this.btnAnnuler.Name = "btnAnnuler";
+            this.btnAnnuler.Size = new System.Drawing.Size(170, 35);
+            this.btnAnnuler.TabIndex = 5;
+            this.btnAnnuler.Text = "Annuler";
+            this.btnAnnuler.UseVisualStyleBackColor = false;
+            this.btnAnnuler.Click += new System.EventHandler(this.btnAnnuler_Click);
             // 
             // btnConfirmer
             // 
@@ -264,6 +282,7 @@ namespace JBPanel
         private System.Windows.Forms.TextBox tbPrenom;
         private System.Windows.Forms.TextBox tbEmail;
         private System.Windows.Forms.TextBox tbTel;
+        private System.Windows.Forms.Button btnAnnuler;
     }
 }
 

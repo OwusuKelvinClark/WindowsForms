@@ -83,6 +83,16 @@ namespace JBPanel.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap close_adobespark {
+            get {
+                object obj = ResourceManager.GetObject("close_adobespark", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap confirm_adobespark {
             get {
                 object obj = ResourceManager.GetObject("confirm_adobespark", resourceCulture);
